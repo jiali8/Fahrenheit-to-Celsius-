@@ -1,0 +1,35 @@
+.formula {
+    border: 1px solid black;
+    padding: 10px 50px;
+    width: 700px;
+    font-size: 70px;
+
+}
+
+body {
+    background-color: white;
+    width: 800px;
+    margin: 0 auto; 
+    padding: 50px 100px; 
+    border-radius: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px; 
+    border: 1px dotted gray;
+
+
+
+}
+
+html {
+    background-color: blanchedalmond;
+}
+
+button {
+    font-size: 20px;
+    border-radius: 30px;
+    padding: 5px 20px; 
+}
+
+input {
+    font-size: 20px;
+}
